@@ -39,3 +39,4 @@
 ### Conforme o X aumenta o Y tende para 0, ou seja, X -> +∞ e Y -> 0
 - Lê-se **X** tende para mais infinito
   - **Y** tende para 0
+- lim 1/x = 0 quando x +∞ é igual a zero.
