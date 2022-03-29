@@ -1,4 +1,4 @@
-## Cálculo 1 - Calculus 1 
+# Cálculo 1 - Calculus 1 
 
 # Header 1
 ## Header 2
